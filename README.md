@@ -2,14 +2,6 @@
 
 A Python API Extension to enable support for programming your MiiA.bit robot using the Python programming language.
 
-# Files
-
-|                File                    |Description                         |
-|----------------|-------------------------------|-----------------------------|
-|miipy_miiabit.py                		 |The MiiPy Python API            |'Isn't this fun?'
-|miia_bit_definitions.py         		 |A Python file containing constants and definitions for the MiiA.bit Platform.
-|miia_bit_miipy_firmware_v1.1.ino        |MiiPy Compatible Firmware for the MiiA.bit Robot|
-
 ## Getting Started
 
  1. Upload the MiiPy Compatible Firmware to your MiiA.bit Robot
